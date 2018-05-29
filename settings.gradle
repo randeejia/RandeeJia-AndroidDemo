@@ -1,1 +1,1 @@
-include ':app', ':broadcastreceiverdemo', ':ContentProviderDemo'
+include ':app', ':broadcastreceiverdemo', ':ContentProviderDemo', ':bluetooth'
